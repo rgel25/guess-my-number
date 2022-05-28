@@ -18,7 +18,7 @@ The main challenge here creating a solid game logic and implementing it through 
 
 - HTML - Used to create the index.html file
 - CSS - Used to design the webpage
-- Javascript
+- Javascript - Used for app's logic implementation
 - VSCode - IDE I used to create the web app
 - Git - For version control
 - Netflify - Used to host this web app
@@ -30,11 +30,8 @@ The main challenge here creating a solid game logic and implementing it through 
 ## Deployment
 
 You may visit the deployed web app through the link below.
-&&&&&&&&&&&
-&EDIT THIS&
-&&&&&&&&&&&
 
-- [SITE](LINKTOSITE)
+- [https://amiralles-guessmynumber.netlify.app/](https://amiralles-guessmynumber.netlify.app/)
 
 ## Footer
 
